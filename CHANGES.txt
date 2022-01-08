@@ -1,0 +1,10 @@
+--------------------
+PRDC_GenerateViews_FC
+FreeCAD Macro for automatic 2D views generation by PR-DC.
+--------------------
+
+Release 1.0.0, 08.01.2022.
+
+- Initial release
+
+--------------------
